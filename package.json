@@ -1,8 +1,8 @@
 {
-  "name": "vue-resource-mocker",
-  "version": "0.0.1",
+  "name": "@o-p/vue-resource-mocker",
+  "version": "0.0.2-alpha",
   "description": "vue-resource response mocker",
-  "main": "dist/vue-resource-mocker.cjs.js",
+  "main": "dist/vue-resource-mocker.common.js",
   "module": "dist/vue-resource-mocker.esm.js",
   "scripts": {
     "build": "rollup -c"
@@ -10,7 +10,6 @@
   "repository": "https://github.com/o-p/vue-resource-mocker.git",
   "author": "o-p <op.github.io@gmail.com>",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "rollup": "^0.59.4",
     "vue": "^2.5.16",
