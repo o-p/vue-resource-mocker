@@ -1,0 +1,14 @@
+{
+  "name": "vue-resource-mocker",
+  "version": "0.0.1",
+  "description": "vue-resource response mocker",
+  "main": "src/index.js",
+  "repository": "https://github.com/o-p/vue-resource-mocker.git",
+  "author": "o-p <op.github.io@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vue": "^2.5.16",
+    "vue-resource": "^1.5.1"
+  }
+}
